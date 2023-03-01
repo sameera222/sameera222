@@ -1,7 +1,6 @@
 ### Hi! I am Sameera! 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Reactjs, React Native, Typescript
 - 🌱 I’m currently learning and expanding new skills
