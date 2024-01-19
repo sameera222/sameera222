@@ -4,7 +4,7 @@
 🔭  I'm Currently weaving magic with Next.js, TypeScript, and React Native!<br>
 📚  Learning backend to amplify my stack for powerful applications.<br>
 🤝  Seeking exciting collaborations and connecting with developers.<br>
-🔍 Seeking help with leveling up my skills, especially in the  backend development—Node.js, Express, and MongoDB are on my radar.<br>
+🔍 Seeking help with leveling up my skills, especially in the backend development—Node.js, Express, and MongoDB are on my radar.<br>
 ❓ Ask me about frontend sorcery<br>
 🎉 Fun fact: I once debugged an entire project by simply fixing a missing semicolon! Let's code and laugh together! 😄<br>
 
